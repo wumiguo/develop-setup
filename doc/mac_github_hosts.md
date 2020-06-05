@@ -8,6 +8,7 @@ sudo vim /etc/hosts
 140.82.113.4 github.com
 199.232.69.194  github.global.ssl.fastly.net
 ```
+In case of error, check the latest IPs of above hosts from: https://www.ipaddress.com
 
 update DNS Cache
 ---
