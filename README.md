@@ -1,4 +1,4 @@
-# Java Developer Macbook Setup
+# Developer Macbook Setup
 
 Run this command to execute the setup in one go
 ```bash
