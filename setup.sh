@@ -25,6 +25,8 @@ function githubHosts(){
 backup /etc/hosts 
 echo "140.82.113.4 github.com" >> /etc/hosts
 echo "199.232.69.194  github.global.ssl.fastly.net" >> /etc/hosts
+#fix issue like "raw.githubusercontent.com 拒绝了我们的连接请求解决方案"
+echo "151.101.76.133 raw.githubusercontent.com" >> /etc/hosts
 }
 function getJdk11(){
 brew tap AdoptOpenJDK/openjdk
